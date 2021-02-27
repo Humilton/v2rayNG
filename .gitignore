@@ -7,3 +7,5 @@ V2rayNG/app/src/main/java/com/v2ray/ang/InappBuyActivity.java
 V2rayNG/app/release/output.json
 .idea/
 .gradle/
+*.keystore
+keystore.properties
